@@ -2,7 +2,7 @@
 #include <string.h>
 #include <locale.h>
 #define MAX 100
-
+  
 void insertword() {
     char myword[MAX];
     printf("\n Write down a word of your choice: \n");
