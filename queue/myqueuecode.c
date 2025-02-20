@@ -3,7 +3,7 @@
 #include <locale.h>
 #define MAX 4
 
-char queue[MAX][50];
+char queue[MAX][50];  
 int start = 0;
 int end = 0;
 
